@@ -13,7 +13,7 @@ In soon these repositories will be full, I hope and I'll work for this.
 
 - 🌱 I’m currently learning about JS, CSS and HTML, with focus in front-end and back-end.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s)
 
 <!--
 **anacarlaalmeida-s/anacarlaalmeida-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
