@@ -4,17 +4,14 @@ Sou a Ana Carla Almeida, recém-formada em Pedagogia e agora iniciante no mundo 
 Em breve esses repositórios estarão lotados, é o que espero e trabalharei para isso ;).
 
 - 🌱 Atualmente estou estudando JS, CSS and HTML, com foco em front e back-end.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anacarlasalmeida/) 
 ---
 
 I am recent pedagogic graduate and beginner in this developers' world . I started with very luck, as a scholarship holder of Cubos Academy.
 In soon these repositories will be full, I hope and I'll work for this.
 
 - 🌱 I’m currently learning about JS, CSS and HTML, with focus in front-end and back-end.
-
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anacarlasalmeida/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/anacarlaalmeida.s/) 
 
 <!--
 **anacarlaalmeida-s/anacarlaalmeida-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
