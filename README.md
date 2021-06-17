@@ -7,10 +7,10 @@ Em breve esses repositórios estarão lotados, é o que espero e trabalharei par
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-- 👨👩 
-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anacarlasalmeida/) 
+- 👨👩 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anacarlasalmeida/) 
 
 - 🤜🤛 [<img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/@anacarlaalmeida.s#2562/)
+
 ---
 
 I am recent pedagogic graduate and beginner in this developers' world . I started with very luck, as a scholarship holder of Cubos Academy.
