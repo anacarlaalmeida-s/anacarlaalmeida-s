@@ -9,7 +9,7 @@ Em breve esses repositórios estarão lotados, é o que espero e trabalharei par
 
 - 👨👩 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anacarlasalmeida/) 
 
-- 🤜🤛 [<img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/@anacarlaalmeida.s#2562/)
+- 🤜🤛 [<img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
 
 ---
 
