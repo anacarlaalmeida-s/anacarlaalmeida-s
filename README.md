@@ -5,9 +5,6 @@ Em breve esses repositórios estarão lotados, é o que espero e trabalharei par
 
 - 🌱 Atualmente estou estudando JS, CSS and HTML, com foco em front e back-end.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s)](https://github.com/anacarlaalmeida-s/github-readme-stats)
-
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anacarlasalmeida/) 
 ---
 
@@ -15,6 +12,8 @@ I am recent pedagogic graduate and beginner in this developers' world . I starte
 In soon these repositories will be full, I hope and I'll work for this.
 
 - 🌱 I’m currently learning about JS, CSS and HTML, with focus in front-end and back-end.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s)](https://github.com/anacarlaalmeida-s/github-readme-stats)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s)
 
