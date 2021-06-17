@@ -19,7 +19,7 @@ In soon these repositories will be full, I hope and I'll work for this.
 - 🌱 I’m currently learning about JS, CSS and HTML, with focus in front-end and back-end.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact)](https://github.com/anacarlaalmeida-s/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact=true&theme=radical)](https://github.com/anacarlaalmeida-s/github-readme-stats)
 
 
 
