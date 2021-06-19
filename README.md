@@ -21,7 +21,7 @@ In soon these repositories will be full, I hope and I'll work for this.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact=true&theme=radical)](https://github.com/anacarlaalmeida-s/github-readme-stats)
 
-![Snake animation](https://github.com/anacarlaalmeida-s/anacarlaalmeida-s/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
