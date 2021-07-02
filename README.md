@@ -18,7 +18,9 @@ In soon these repositories will be full, I hope and I'll work for this.
 
 - 🌱 I’m currently learning about JS, CSS and HTML, with focus in front-end and back-end.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&theme=dracula)](https://github.com/anacarlaalmeida-s/github-readme-stats)
+  
+
 
 <!--
 **anacarlaalmeida-s/anacarlaalmeida-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
