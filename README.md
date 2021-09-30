@@ -3,7 +3,7 @@
 Sou a Ana Carla Almeida, recém-formada em Pedagogia e agora iniciante no mundo da programação como bolsista da Cubos Academy.
 Em breve esses repositórios estarão lotados, é o que espero e trabalharei para isso ;).
 
-- 🌱 Atualmente estou estudando HTML, CSS, JS, React em front e Postgresql, Node.js em back-end.
+- 🌱 Atualmente estou estudando HTML, CSS, JS, React no Front-end e PostgreSQL, Node.js no Back-end.
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -13,7 +13,7 @@ Em breve esses repositórios estarão lotados, é o que espero e trabalharei par
 
 ---
 
-I am recent pedagogic graduate and beginner in this developers' world . I started with very luck, as a scholarship holder of Cubos Academy.
+I am beginner in this developers' world. I started with very luck, as a scholarship holder of Cubos Academy.
 In soon these repositories will be full, I hope and I'll work for this.
 
 - 🌱 I’m currently learning about HTML, CSS, JS,  React at Front-end and Postgresql, Node.js at Back-end.
