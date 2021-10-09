@@ -1,7 +1,8 @@
 ### Hi, I'm Ana Carla 👋
 
 <p>Pedagoga de formação, e desde Junho de 2021 iniciante no mundo da programação.</p>  
-<p>Logo abaixo há duas pastas em que vou colocando o que já consigo executar conforme vou aprendendo, a fim de registrar a minha evolução; uma pasta voltada ao Front e outra voltada ao Back, fiquem a vontade para analisá-las e contribuir com meu processo de aprendizagem e caso haja algo nessas pastas que queira aprender é só entrar em contato 😉.</p>
+<p>Logo abaixo há duas pastas em que vou colocando o que já consigo executar conforme vou aprendendo, a fim de registrar a minha evolução, uma pasta voltada ao Front e outra voltada ao Back.</p>
+Fiquem a vontade para analisar e contribuir com meu processo de aprendizagem e caso haja algo nessas pastas que queira aprender é só entrar em contato 😉.</p>
 
 - 🌱 Estudando HTML5, CSS3, JS e React-JS no Front-end.  
 - 🌱 Estudando PostgreSQL e Node.js no Back-end.
@@ -14,7 +15,8 @@
 
 ---
 
-<p>I started my studies in June 2021; just bellow there are two folders where I'm putting as I'm learning what I can already do, in order to registrate my learning evolution.</p>  Feel free to analyze them and contribute to my learning process 😉.
+<p>I started my studies in June 2021; just bellow there are two folders where I'm putting as I'm learning what I can already do, in order to registrate my learning evolution.</p>  
+<p>Feel free to analyze them and contribute to my learning process 😉.</p>
 
 - 🌱 Studyng HTML, CSS, JS and React-JS at Front-end.
 - 🌱 Studyng PostgreSQL and Node.js at Back-end.
