@@ -1,9 +1,10 @@
-### Hi 👋
+### Hi, I'm Ana Carla 👋
 
-Sou a Ana Carla Almeida, recém-formada em Pedagogia e agora iniciante no mundo da programação como bolsista da Cubos Academy.
-Em breve esses repositórios estarão lotados, é o que espero e trabalharei para isso ;).
+Pedagoga de formação, e desde Junho de 2021 iniciante no mundo da programação.
+Logo abaixo há duas pastas em que vou colocando o que já consigo executar conforme vou aprendendo, a fim de registrar a minha evolução; uma pasta voltada ao Front e outra voltada ao Back, fiquem a vontade para analisá-las e contribuir com meu processo de aprendizagem e caso haja algo nessas pastas que queira aprender é só entrar em contato 😉.
 
-- 🌱 Atualmente estou estudando HTML, CSS, JS, React no Front-end e PostgreSQL, Node.js no Back-end.
+- 🌱 Estudando HTML5, CSS3, JS e React-JS no Front-end.  
+- 🌱 Estudando PostgreSQL e Node.js no Back-end.
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
@@ -13,10 +14,10 @@ Em breve esses repositórios estarão lotados, é o que espero e trabalharei par
 
 ---
 
-I am beginner in this developers' world. I started with very luck, as a scholarship holder of Cubos Academy.
-In soon these repositories will be full, I hope and I'll work for this.
+I started my studies in June 2021; just bellow there are two folders where I'm putting as I'm learning what I can already do, in order to registrate my learning evolution. Feel free to analyze them and contribute to my learning process 😉.
 
-- 🌱 I’m currently learning about HTML, CSS, JS,  React at Front-end and Postgresql, Node.js at Back-end.
+- 🌱 Studyng HTML, CSS, JS and React-JS at Front-end.
+- 🌱 Studyng PostgreSQL and Node.js at Back-end.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&theme=dracula)](https://github.com/anacarlaalmeida-s/github-readme-stats)
   
