@@ -1,11 +1,10 @@
 ### Hi, I'm Ana Carla 👋
 
-<p>Pedagoga de formação, e desde Junho de 2021 iniciante no mundo da programação.</p>  
-<p>Logo abaixo há duas pastas em que vou colocando o que já consigo executar conforme vou aprendendo, a fim de registrar a minha evolução, uma pasta voltada ao Front e outra voltada ao Back.</p>
-Fiquem a vontade para analisar e contribuir com meu processo de aprendizagem e caso haja algo nessas pastas que queira aprender é só entrar em contato 😉.</p>
+<p>Pedagoga de formação e Desenvolvedora de Software Fullstack, apaixonada mesmo pelo Backend, hehehe.</p>  
+<p>Logo abaixo há duas pastas nas quais estou colocando meus primeiros exercícios em ordem de aprendizado, a fim de registrar meu início, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos, conforme me sobra tempo, vou alimentando-as.</p>
 
-- 🌱 Estudando HTML5, CSS3, JS e React-JS no Front-end.  
-- 🌱 Estudando PostgreSQL e Node.js no Back-end.
+- 🌱 HTML5, CSS3, JS, React-JS, Angular e Typescript no Front-end.  
+- 🌱 PostgreSQL e Node.js no Back-end.
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
@@ -15,11 +14,11 @@ Fiquem a vontade para analisar e contribuir com meu processo de aprendizagem e c
 
 ---
 
-<p>I started my studies in June 2021; just bellow there are two folders where I'm putting as I'm learning what I can already do, in order to registrate my learning evolution.</p>  
-<p>Feel free to analyze them and contribute to my learning process 😉.</p>
+<p>I'm Fullstack Software Developer, really passionate about Backend, hehehe.</p>  
+<p>Below are two folders where I'm putting my first exercises in learning order to record my beginning, one folder to Front and one to Back. Gradually, as I have time, I will feed them.</p>
 
-- 🌱 Studyng HTML, CSS, JS and React-JS at Front-end.
-- 🌱 Studyng PostgreSQL and Node.js at Back-end.
+- 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
+- 🌱 PostgreSQL and Node.js at Back-end.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&theme=dracula)](https://github.com/anacarlaalmeida-s/github-readme-stats)
   
