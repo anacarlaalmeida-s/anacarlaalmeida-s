@@ -1,6 +1,6 @@
 ### Hi, I'm Ana Carla 👋
 
-<p>Pedagoga de formação e Desenvolvedora de Software Fullstack, apaixonada mesmo pelo Backend, hehehe.</p>  
+<p>Pedagoga de formação e Desenvolvedora Web Fullstack, apaixonada mesmo pelo Backend, hehehe.</p>  
 <p>Logo abaixo há duas pastas nas quais estou colocando meus exercícios a fim de registrar meu processo de aprendizagem, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos, conforme me sobra tempo, vou alimentando-as.</p>
 
 - 🌱 HTML5, CSS3, JS, Typescript, React-JS e Angular no Front-end.  
