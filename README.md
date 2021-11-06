@@ -1,7 +1,7 @@
 ### Hi, I'm Ana Carla 👋
 
 <p>Pedagoga de formação e Desenvolvedora de Software Fullstack, apaixonada mesmo pelo Backend, hehehe.</p>  
-<p>Logo abaixo há duas pastas nas quais estou colocando meus primeiros exercícios em ordem de aprendizado, a fim de registrar meu início, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos, conforme me sobra tempo, vou alimentando-as.</p>
+<p>Logo abaixo há duas pastas nas quais estou colocando meus exercícios a fim de registrar meu evolução, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos, conforme me sobra tempo, vou alimentando-as.</p>
 
 - 🌱 HTML5, CSS3, JS, React-JS, Angular e Typescript no Front-end.  
 - 🌱 PostgreSQL e Node.js no Back-end.
@@ -15,7 +15,7 @@
 ---
 
 <p>I'm Fullstack Software Developer, really passionate about Backend, hehehe.</p>  
-<p>Below are two folders where I'm putting my first exercises in learning order to record my beginning, one folder to Front and one to Back. Gradually, as I have time, I will feed them.</p>
+<p>Below are two folders where I'm putting my exercises to record my learning, one folder to Front and one to Back. Gradually, as I have time, I will feed them.</p>
 
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
 - 🌱 PostgreSQL and Node.js at Back-end.
