@@ -5,7 +5,7 @@
 
 - 🌱 HTML5, CSS3, JS, Typescript, React-JS e Angular no Front-end.  
 - 🌱 PostgreSQL e Node.js no Back-end.
-- ❤ Código e Arte.
+- ❤ Código e Arte. 
 -⚡ Fun fact: Sou apaixonda por filmes e música. Nas horas vagas eu canto!
  
  
@@ -22,7 +22,7 @@
 
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
 - 🌱 PostgreSQL and Node.js at Back-end.
-- ❤ Tech, Coding and Arts.
+- ❤ Tech, Coding and Arts. 
 -⚡ Fun fact: I'm a lover of movies and music, I sing as my free hours!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&theme=dracula)](https://github.com/anacarlaalmeida-s/github-readme-stats)
