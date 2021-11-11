@@ -13,10 +13,6 @@
 <div align="center" style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
-
-
-
-
 ---
 
 <p>I'm Fullstack Software Developer, really passionate about Backend, hehehe.</p>  
@@ -32,15 +28,12 @@
 
 <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/anacarlaalmeida-s">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&langs_count=7&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&langs_count=7&theme=dark"/>
   </a>
-
-
-</div>       
-      <div align="center" style="display: inline_block">
-      <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=anacarlaalmeida-s&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>
 </div>
+
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anacarlaalmeida-s&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 <!--
 **anacarlaalmeida-s/anacarlaalmeida-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
