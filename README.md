@@ -1,6 +1,6 @@
 ### Hi, I'm Ana Carla 👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
+[<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
 
 <p>Pedagoga de formação e Desenvolvedora Web Fullstack apaixonada pelo Backend.</p>  
 <p>Logo abaixo há duas pastas nas quais estou colocando meus estudos a fim de registrar meu processo de aprendizagem, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos vou alimentando-as.</p>
