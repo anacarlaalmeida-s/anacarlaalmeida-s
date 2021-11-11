@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
 
 <p>Sou uma Desenvolvedora Web Fullstack formada em Pedagogia e apaixonada por História e Música.</p>  
-<p>Logo abaixo há duas pastas nas quais estou colocando meus estudos a fim de registrar meu processo de aprendizagem, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos vou alimentando-as.</p>
+<p>Logo abaixo há duas pastas nas quais se encontram meus estudos e projetos, uma pasta voltada ao Front e outra voltada ao Back.</p>
 
 - 🌱 HTML5, CSS3, JS, Typescript, React-JS e Angular no Front-end.  
 - 🌱 PostgreSQL e Node.js no Back-end.
@@ -15,7 +15,7 @@
 
 ---
 <p>I'm a Web Developer with a degree in Pedagogy and a I love History and Music.</p>  
-<p>Below are two folders where I'm putting my exercises to record my learning, one folder to Front and one to Back. Gradually, as I have time, I will feed them.</p>
+<p>Below are two folders where I'm putting my exercises and projects, one folder to Front and one to Back.</p>
 
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
 - 🌱 PostgreSQL and Node.js at Back-end.
