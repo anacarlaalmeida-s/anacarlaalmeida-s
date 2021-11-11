@@ -1,19 +1,21 @@
 ### Hi, I'm Ana Carla 👋
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
+
 <p>Pedagoga de formação e Desenvolvedora Web Fullstack apaixonada pelo Backend.</p>  
 <p>Logo abaixo há duas pastas nas quais estou colocando meus estudos a fim de registrar meu processo de aprendizagem, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos vou alimentando-as.</p>
 
 - 🌱 HTML5, CSS3, JS, Typescript, React-JS e Angular no Front-end.  
 - 🌱 PostgreSQL e Node.js no Back-end.
 - ❤ Código e Arte.  
-- ⚡ Fun fact: Sou apaixonda por filmes e música. Nas horas vagas eu canto!
- 
- 
+- ⚡ Sou apaixonda por filmes e música. Nas horas vagas eu canto!
+
+<div align="center" style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
 
-- 👨👩 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) 
 
-- 🤜🤛 [<img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
+
 
 ---
 
@@ -23,12 +25,25 @@
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
 - 🌱 PostgreSQL and Node.js at Back-end.
 - ❤ Tech, Coding and Arts.
-- ⚡ Fun fact: I'm a lover of movies and music, I sing as my free hours!
+- ⚡ I'm a lover of movies and music, I sing as my free hours!  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&theme=dracula)](https://github.com/anacarlaalmeida-s/github-readme-stats)
-  
+---
+
+<p align="center"> Quantidade de visitas desde 08/2020  </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+
+<div align="center" style="display: inline_block">
+  <a align="center" href="https://github.com/anacarlaalmeida-s">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarlaalmeida-s&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 
 
+</div>       
+      <div align="center" style="display: inline_block">
+      <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=anacarlaalmeida-s&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>
+</div>
+    
 <!--
 **anacarlaalmeida-s/anacarlaalmeida-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
