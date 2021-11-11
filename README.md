@@ -14,7 +14,7 @@
 </div>
 
 ---
-<p>I'm a Web Developer with a degree in Pedagogy and a I love History and Music.</p>  
+<p>I'm a Web Developer with a degree in Pedagogy.</p>  
 <p>Below are two folders where I'm putting my exercises and projects, one folder to Front and one to Back.</p>
 
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
