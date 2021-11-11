@@ -2,25 +2,24 @@
 
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
 
-<p>Pedagoga de formação e Desenvolvedora Web Fullstack de profissão.</p>  
+<p>Sou uma Desenvolvedora Web Fullstack formada em Pedagogia e apaixonada por História e Música.</p>  
 <p>Logo abaixo há duas pastas nas quais estou colocando meus estudos a fim de registrar meu processo de aprendizagem, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos vou alimentando-as.</p>
 
 - 🌱 HTML5, CSS3, JS, Typescript, React-JS e Angular no Front-end.  
 - 🌱 PostgreSQL e Node.js no Back-end.
-- ❤ Código e Arte.  
-- ⚡ Sou apaixonda por filmes e música. Nas horas vagas eu canto!
+- ❤ Código e Arte. Nas horas vagas eu canto!  
 
 <div align="center" style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ---
+<p>I'm a Web Developer with a degree in Pedagogy and a I love History and Music.</p>  
 <p>Below are two folders where I'm putting my exercises to record my learning, one folder to Front and one to Back. Gradually, as I have time, I will feed them.</p>
 
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
 - 🌱 PostgreSQL and Node.js at Back-end.
-- ❤ Tech, Coding and Arts.
-- ⚡ I'm a lover of movies and music, I sing as my free hours!  
+- ❤ Tech, Coding and Arts. I sing as my free hours!  
 
 ---
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
