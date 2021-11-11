@@ -28,8 +28,6 @@
 - ⚡ I'm a lover of movies and music, I sing as my free hours!  
 
 ---
-
-<p align="center"> Quantidade de visitas desde 08/2020  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 <div align="center" style="display: inline_block">
