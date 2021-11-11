@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
 
-<p>Pedagoga de formação e Desenvolvedora Web Fullstack apaixonada pelo Backend.</p>  
+<p>Pedagoga de formação e Desenvolvedora Web Fullstack de profissão.</p>  
 <p>Logo abaixo há duas pastas nas quais estou colocando meus estudos a fim de registrar meu processo de aprendizagem, uma pasta voltada ao Front e outra voltada ao Back. Aos poucos vou alimentando-as.</p>
 
 - 🌱 HTML5, CSS3, JS, Typescript, React-JS e Angular no Front-end.  
@@ -15,7 +15,6 @@
 </div>
 
 ---
-<p>I'm Fullstack Software Developer, really passionate about Backend, hehehe.</p>  
 <p>Below are two folders where I'm putting my exercises to record my learning, one folder to Front and one to Back. Gradually, as I have time, I will feed them.</p>
 
 - 🌱 HTML, CSS, JS, React-JS, Angular, Typescript at Front-end.
