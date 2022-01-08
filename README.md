@@ -2,8 +2,8 @@
 
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dev-anacarlaalmeida/) [<img src ="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/channels/#2562/)
 
-- 🔭 Angular, Typescript, Java.
-- 🌱 HTML, CSS, JS, Typescript, React-JS.
+- 🔭 Angular, Typescript, Java, Spring Boot
+- 🌱 HTML, CSS, JS, React-JS.
 - 🌱 PostgreSQL, Node.js.
 - ❤ Tech, Coding and Music/Arts!  
 ---
