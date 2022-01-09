@@ -8,8 +8,6 @@
 - ❤ Tech, Coding and Music/Arts!  
 ---
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-
 <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/anacarlaalmeida-s">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacarlaalmeida-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
